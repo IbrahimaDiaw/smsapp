@@ -1,0 +1,7 @@
+{
+  "name": "Appsms",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
